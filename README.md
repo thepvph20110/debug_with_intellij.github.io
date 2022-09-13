@@ -30,7 +30,7 @@ Một lập trình viên không có khả năng Debug hiệu quả thì cũng gi
 
 ### Bước 3: khi nhập và chạy hết các dòng muốn debug thì giá trị của các biến sẽ hiển thị bên cạnh biến đó -> nếu trường hợp biến khác với giá trị  nhập vào thì dòng đó xảy ra lỗi -> tiến hành fix bug 
 
-![DEMO](https://user-images.githubusercontent.com/109200115/189869552-06034fae-7511-4a82-9361-bfd30edea3e5.png)
+![díplay](https://user-images.githubusercontent.com/109200115/189924267-5b17270d-caca-4235-9623-7334a851c637.png)
 
 ### Kết luận
 - để quá trình fix bug diễn ra nhanh chóng , chúng ta cần biết debug để tìm ra dòng gặp lỗi 
